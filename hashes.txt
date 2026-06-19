@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Mordiscos tristes
+
+This log tracks the cryptographic history and versioning for the song **Mordiscos tristes** (mordiscos-tristes).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-20T01:58:07.245934 | `v1` | `aa8cb8040fc1a14342a3f8874c2d9503fd63770a77ca7b38158c05a1e17cebd1` | `ab10d84a88d5fc9ebbc9fbd2fb94c856f0f9840088f314bf139fa02f4686f39e` | `2026-06-20_mordiscos-tristes-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
