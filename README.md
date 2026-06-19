@@ -12,10 +12,10 @@
 |-------|---------|
 | **Title** | Mordiscos tristes |
 | **Written By** | [Abu Sayed](https://abusayed.com.bd/) |
-| **Written On** | June 09, 2026 |
+| **Written On** | June 19, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/mordiscos-tristes/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Request Licensing for Mordiscos tristes](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/mordiscos-tristes/) |
+| **Get License** | [Official Music Licensing for Mordiscos tristes](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/mordiscos-tristes/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,10 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> Mordiscos tristes que dejas bajando mi cuello
-> Esta noche de locura, mami, yo soy tu dueño
-> Nos perdemos en la disco, feeling all the vibe
-> Bailando pegadito hasta que llegue el daylight
+> Mordiscos tristes en tu piel
+> De noche enciendes mi querer
+> Bailamos hasta el amanecer
+> No puedo, no quiero perder
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
