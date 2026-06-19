@@ -5,6 +5,7 @@ This log tracks the cryptographic history and versioning for the song **Mordisco
 | Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
 |:----------|:--------|:-------------------|:-----------------|:------------|
 | 2026-06-20T01:58:07.245934 | `v1` | `aa8cb8040fc1a14342a3f8874c2d9503fd63770a77ca7b38158c05a1e17cebd1` | `ab10d84a88d5fc9ebbc9fbd2fb94c856f0f9840088f314bf139fa02f4686f39e` | `2026-06-20_mordiscos-tristes-v1.txt` |
+| 2026-06-20T02:25:04.654276 | `v2` | `1985ec326739d042b6cca02a69430ae36490ea3e8a63dab94e2f1dcad4b85aaf` | `2f4c13a8927c6fda356cbfcefd0be066eebfb934bd49a844be8eaa6ae88836e1` | `2026-06-20_mordiscos-tristes-v2.txt` |
 
 ---
 *Written and Curated by Abu Sayed*

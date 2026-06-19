@@ -15,7 +15,7 @@
 | **Written On** | June 19, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/mordiscos-tristes/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Official Music Licensing for Mordiscos tristes](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/mordiscos-tristes/) |
+| **Get License** | [Get a Licensing Quote for Mordiscos tristes](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/mordiscos-tristes/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -115,8 +115,8 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 | Verification Detail | Information |
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
-| **Version** | `v1` |
-| **SHA-256 Hash** | `aa8cb8040fc1a14342a3f8874c2d9503fd63770a77ca7b38158c05a1e17cebd1` |
+| **Version** | `v2` |
+| **SHA-256 Hash** | `1985ec326739d042b6cca02a69430ae36490ea3e8a63dab94e2f1dcad4b85aaf` |
 | **Timestamp** | June 20, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
